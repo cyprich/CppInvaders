@@ -1,0 +1,2 @@
+C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\CppInvaders\x64\Debug\CppInvaders.exe
+C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\CppInvaders\x64\Debug\CppInvad.095CB2E1.Up2Date

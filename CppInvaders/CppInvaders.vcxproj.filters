@@ -18,5 +18,13 @@
     <ClCompile Include="CppInvaders.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="spaceship.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="spaceship.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
