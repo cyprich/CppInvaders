@@ -1,7 +1,6 @@
-﻿  spaceship.cpp
-C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\CppInvaders\spaceship.cpp(6,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\CppInvaders\spaceship.cpp(7,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\CppInvaders\spaceship.cpp(29,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  CppInvaders.cpp
+  Game.cpp
+  Generating Code...
   CppInvaders.vcxproj -> C:\Users\Peter Cyprich\Programming\CPP\CppInvaders\x64\Debug\CppInvaders.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
